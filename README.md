@@ -1,4 +1,4 @@
-# Little Brother by CoryDoctorow
+# Little Brother by Cory Doctorow
 
 ## **Purpose**
 
@@ -18,7 +18,7 @@ When the DHS finally releases them, Marcus discovers that his city has become a 
 
 #
 
-# 
+#
 
 ## **Little Brother**
 
